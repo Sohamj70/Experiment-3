@@ -39,6 +39,19 @@ _Key Characteristics of Tuples_
 
 These operations help in understanding how tuples behave differently from mutable data types like lists.
 
+**_Algorithm_**
+1. Start the program.
+2. Create a tuple with different data types and display it using print().
+3. Access tuple elements using positive and negative indexing.
+4. Attempt to modify a tuple element to demonstrate immutability.
+5. Create a tuple using repetition operator (*).
+6. Use built-in functions like len(), min(), max(), sum(), and sorted() on a tuple.
+7. Perform tuple unpacking to store values in separate variables.
+8. Use conditional statements to check results based on tuple values.
+9. Count occurrences of elements in a tuple using count() and check membership using in.
+10. Display the output and stop the program
+
+
 **_Conclusion_**
 
 From this experiment, it is concluded that tuples are immutable data structures in Python used to store multiple values in a single variable. Tuples provide data safety, better performance, and are useful when the data should not be modified. Through this experiment, we successfully studied tuple creation, indexing, immutability, repetition, concatenation, and various built-in tuple functions, gaining a clear understanding of their usage and applications in Python programming.
