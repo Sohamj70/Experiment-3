@@ -45,11 +45,16 @@ These operations help in understanding how tuples behave differently from mutabl
 3. Access tuple elements using positive and negative indexing.
 4. Attempt to modify a tuple element to demonstrate immutability.
 5. Create a tuple using repetition operator (*).
-6. Use built-in functions like len(), min(), max(), sum(), and sorted() on a tuple.
-7. Perform tuple unpacking to store values in separate variables.
-8. Use conditional statements to check results based on tuple values.
-9. Count occurrences of elements in a tuple using count() and check membership using in.
-10. Display the output and stop the program
+6. Use built-in functions like
+   - len()
+   - min()
+   - max()
+   - sum()
+   - sorted()
+8. Perform tuple unpacking to store values in separate variables.
+9. Use conditional statements to check results based on tuple values.
+10. Count occurrences of elements in a tuple using count() and check membership using in.
+11. Display the output and stop the program
 
 
 **_Conclusion_**
