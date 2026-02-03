@@ -46,11 +46,11 @@ These operations help in understanding how tuples behave differently from mutabl
 4. Attempt to modify a tuple element to demonstrate immutability.
 5. Create a tuple using repetition operator (*).
 6. Use built-in functions like
-   - len()
-   - min()
-   - max()
-   - sum()
-   - sorted()
+   - len() len(tuple_name)
+   - min() min(tuple_name)
+   - max() max(tuple_name) 
+   - sum() sum(tuple_name)
+   - sorted()  sorted(tuple_name)
 8. Perform tuple unpacking to store values in separate variables.
 9. Use conditional statements to check results based on tuple values.
 10. Count occurrences of elements in a tuple using count() and check membership using in.
